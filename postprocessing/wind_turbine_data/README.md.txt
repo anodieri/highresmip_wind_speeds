@@ -1,0 +1,1 @@
+Downloaded from https://github.com/NatLabRockies/turbine-models/tree/main/turbine_models/specs/Offshore
